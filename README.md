@@ -13,6 +13,7 @@
 Frontend developer and senior Computer Science student focused on building reliable, responsive web applications with React, Next.js, and TypeScript. Experienced in REST API integration, commercial software delivery, Dockerized deployment, and CI/CD workflows.
 
 🔭 &nbsp;I'm currently working on **a production ERP platform, where I am responsible for frontend development, API integration, deployment, and CI/CD.**  
+
 🌱 &nbsp;I'm currently learning **data science, machine learning, and AI engineering principles, with a focus on Python, model development, evaluation, and the principles behind production-ready AI systems.**
 
 ### 💼 Featured Projects
