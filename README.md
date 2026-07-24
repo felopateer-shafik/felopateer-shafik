@@ -94,9 +94,9 @@ A multi-role e-commerce platform with separate interfaces for administrators, me
   <a href="https://instagram.com/felopateer_shafik" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://github.com/felopateer-shafik/felopateer-shafik/raw/main/assets/Felopateer_Shafik_CV.pdf">
-  <img src="https://img.shields.io/badge/Download%20CV-1F9C8F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" />
-</a>
+  <a href="https://github.com/felopateer-shafik/felopateer-shafik/raw/refs/heads/main/Felopateer%20Shafik.pdf">
+    <img src="https://img.shields.io/badge/View%20%2F%20Download%20CV-1F9C8F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View or Download CV" />
+  </a>
 </p>
 
 ---
