@@ -30,9 +30,7 @@ A production-deployed, Arabic-first business management platform covering sales,
 - Collaborated with a backend developer responsible for server-side services and core business logic
 
 > The source code is private because the system was developed for a commercial client.
-
 <br>
-
 #### ✈️ Voyage — AI-Powered Travel Booking Platform
 
 A graduation project that combines flights, hotels, tours, and travel packages within a unified booking platform.
@@ -41,17 +39,13 @@ A graduation project that combines flights, hotels, tours, and travel packages w
 - Implemented booking workflows, user-session interfaces, and personalized interactions
 - Supported frontend integration for an AI chatbot connected to booking and user-history data
 - Worked within a team using **React, Vite, Spring Boot, Spring Security, JWT, MySQL, Redis, and Google Maps API**
-
 <br>
-
 #### 🏨 Savoy — Hotel Booking System
 
 A full-stack hotel reservation platform with real-time room browsing, booking workflows, and an administration dashboard for managing room inventory.
 
 **Tech Stack:** React, Node.js, MySQL
-
 <br>
-
 #### 🛒 Mini Amazon — Multi-Vendor Marketplace
 
 A multi-role e-commerce platform with separate interfaces for administrators, merchants, and customers.
